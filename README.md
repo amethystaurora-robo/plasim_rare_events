@@ -13,3 +13,7 @@ TODO: Read up on PLASIM
 - AMOC overturning, how it's calculated - looking at one specific region - SPG
 - Describe RE algorithm again, put graphs of AMOC spread and calculations of resampling time, AC time
 
+- Have transition already with Matteo's k value, add mine
+
+- Final thing will be changin the algorithm used ? Can ask today what the goal is with these runs
+
