@@ -4,7 +4,9 @@ This research applies a rare event algorithm which uses cloning and killing (mor
 
 A control simulation with a spin-up of 1000 years is initialized, and one random point from the run is chosen to continue a simulation of an ensemble of 100 trajectories. Running this ensemble with an initial kick at the first timepoint results in stochastic forcing of the system, allowing the trajectories to spread. The standard deviation of the AMOC index of the trajectories is taken, and when the system has lost memory over time, this may be taken as the resampling time.
 
-An ensemble of trajectories is initiated taking 100 stationary states of PlaSim from the control run after its spin-up has completed. At resampling intervals, the rare event algorithm is applied.
+An ensemble of trajectories is initiated taking 100 stationary states of PlaSim from the control run after its spin-up has completed. At resampling intervals, the rare event algorithm is applied. 
+
+So far results are that seasonal cycle prevents importance sampling from working.
 
 TODO: Read up on PLASIM
 - quantify general description
