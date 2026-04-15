@@ -8,8 +8,6 @@ An ensemble of trajectories is initiated taking 100 stationary states of PlaSim 
 
 So far results are that seasonal cycle prevents importance sampling from working.
 
-Plasim sits in the middle of Dijkstra's hierarchy of models \cite{dijkstra2024role}. an Earth System Model of Intermediate Complexity. This model consists of a dynamical core based on the moist primitive equations representing conservation of momentum, mass and energy, which has been adapted from a simplified general circulation model, the Portable University Model of the Atmosphere (PUMA) \cite{fraedrich2005planet}. This has been coupled with systems of lower complexity including land-surface processes, vegetation, ocean and sea ice \cite{fraedrich2005planet}. Our version of PLASIM has included an additional functionality of the large-scale geostrophic ocean, which has been implemented by J Hardenberg (need to find a paper for this) (Can also add the parameters chosen). How much resolution? how many dimensions? How much scale?
-
 Plasim sits in the middle of Dijkstra's hierarchy of models \cite{dijkstra2024role}. an Earth System Model of Intermediate Complexity. This model consists of a dynamical core based on the moist primitive equations representing conservation of momentum, mass and energy, which has been adapted from a simplified general circulation model, the Portable University Model of the Atmosphere (PUMA) \cite{fraedrich2005planet}. This has been coupled with systems of lower complexity including land-surface processes, vegetation, ocean and sea ice \cite{fraedrich2005planet}. Our version of PLASIM has included an additional functionality of the large-scale geostrophic ocean, which has been implemented by J Hardenberg
 
 TODO: Read up on PLASIM
@@ -23,5 +21,5 @@ TODO: Read up on PLASIM
 
 - Next two steps (if transitions are found) is checking on mass balance flux as a result of the transition (a marker of the edge state), and checking locations which are important for monitoring transitions (and seeing if they match up with the locations of R-tipping) read paper of Emma
 
-- May need to integrate 200 years to get transition
+- May need to integrate 200 years to get transition, maybe k should also be less idk
 
