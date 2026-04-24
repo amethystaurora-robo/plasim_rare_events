@@ -22,5 +22,5 @@ TODO: Read up on PLASIM
 
 - Next two steps (if transitions are found) is checking on mass balance flux as a result of the transition (a marker of the edge state), and checking locations which are important for monitoring transitions (and seeing if they match up with the locations of R-tipping) read paper of Emma
 
-- May need to integrate 200 years to get transition, maybe k should also be less idk
+- May need to integrate 200 years to get transition, maybe k should also be less idk - check cumulative integral, run in the background fiddling with different resampling times (and calculating the k from them)
 
