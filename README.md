@@ -3,6 +3,7 @@
 This repo applies a rare event algorithm to the coupled atmospheric-oceanic model PlaSim. The goals of this research are 
 a. determining the edge state in PlaSim between on and off states of the AMOC
 b. determining optimal locations and state variables to position optimal observations for an early warning system of AMOC collapse
+c. refining the methodology used in Cini et al. to produce noise-induced transitions in PlaSim
 
 A control simulation with a spin-up of 1000 years is initialized with a total of 2000 years, and one random point from the run is chosen to continue a simulation of an ensemble of 100 trajectories. Running this ensemble with an initial kick at the first timepoint results in stochastic forcing of the system, allowing the trajectories to spread. The standard deviation of the AMOC index of the trajectories is taken, and when the system has lost memory over time, this may be taken as the resampling time.
 
