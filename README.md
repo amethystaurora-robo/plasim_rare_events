@@ -14,6 +14,10 @@ At higher values of k or something, transitions are not happening.
 
 Plasim sits at the middle of Dijkstra's hierarchy of models \cite{dijkstra2024role}. an Earth System Model of Intermediate Complexity. This model consists of a dynamical core based on the moist primitive equations representing conservation of momentum, mass and energy, which has been adapted from a simplified general circulation model, the Portable University Model of the Atmosphere (PUMA) \cite{fraedrich2005planet}. This has been coupled with systems of lower complexity including land-surface processes, vegetation, ocean and sea ice \cite{fraedrich2005planet}. Our version of PLASIM has included an additional functionality of the large-scale geostrophic ocean, which has been implemented by J Hardenberg.
 
+The justification for selecting PLASIM as the specific EMIC is its proven ability to exhibit noise-induced tipping. Noise-induced transitions in PLASIM occur by beginning an ensemble of trajectories from different initial conditions, and adding a small random perturbation at each resampling step \cite{
+
+This work builds on research conducted by Matteo Cini.
+
 TODO: Read up on PLASIM
 - quantify general description
 - specifications of my run (10 atmospheric layers, etc.)
