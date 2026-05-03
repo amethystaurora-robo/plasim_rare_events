@@ -7,6 +7,8 @@ c. refining the methodology used in Cini et al. to produce noise-induced transit
 
 A control simulation with a spin-up of 1000 years is initialized with a total of 2000 years, and one random point from the run is chosen to continue a simulation of an ensemble of 100 trajectories. Running this ensemble with an initial kick at the first timepoint results in stochastic forcing of the system, allowing the trajectories to spread. The standard deviation of the AMOC index of the trajectories is taken, and when the system has lost memory over time, this may be taken as the resampling time. Alternatively, determining the integral auto-correlation time gives nearly the same value, with a resulting resampling time of ~20 days. 
 
+Although this is the most scientific way to calculate the resampling time, a resampling time of 20 days resulted in no transitions within 100 years. Based on previous research, we have already found transitions with a resampling time of 1 year, so we can continue with that value. 
+
 An ensemble of trajectories is initiated taking 100 stationary states of PlaSim from the control run after its spin-up has completed. At resampling intervals, the rare event algorithm is applied. 
 
 At higher values of k or something, transitions are not happening.
