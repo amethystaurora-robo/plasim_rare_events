@@ -17,14 +17,6 @@ The justification for selecting PLASIM as the specific EMIC is its proven abilit
 
 This work builds on research conducted by Matteo Cini.
 
-TODO: Read up on PLASIM
-- quantify general description
-- specifications of my run (10 atmospheric layers, etc.)
-- inputs and outputs, parameterized inputs, etc etc
-- AMOC overturning, how it's calculated - looking at one specific region - SPG
-- Describe RE algorithm again, put graphs of AMOC spread and calculations of resampling time, AC time
-
-- Have transition already with Matteo's k value, add mine
 
 - Next two steps (if transitions are found) is checking on mass balance flux as a result of the transition (a marker of the edge state), and checking locations which are important for monitoring transitions (and seeing if they match up with the locations of R-tipping) read paper of Emma
 
