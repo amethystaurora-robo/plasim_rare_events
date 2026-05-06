@@ -18,6 +18,7 @@ The justification for selecting PLASIM as the specific EMIC is its proven abilit
 This work builds on research conducted by Matteo Cini.
 
 
-- Next two steps (if transitions are found) is checking on mass balance flux as a result of the transition (a marker of the edge state), and checking locations which are important for monitoring transitions (and seeing if they match up with the locations of R-tipping, which is the salinity in the southern Atlantic.
+- Next two steps is checking on mass balance flux as a result of the transition (a marker of the edge state), and checking locations which are important for monitoring transitions (and seeing if they match up with the locations of R-tipping, which is the salinity in the southern Atlantic.
+- Not sure how to do the second one, as we need to have an early warning indicator of noise-induced transitions first, unless the idea is to confirm with Plasim, not noise-induced.
 
 
