@@ -15,7 +15,7 @@ Plasim sits at the middle of Dijkstra's hierarchy of models \cite{dijkstra2024ro
 
 The justification for selecting PLASIM as the specific EMIC is its proven ability to exhibit noise-induced tipping. Noise-induced transitions in PLASIM occur by beginning an ensemble of trajectories from different initial conditions, and adding a small random perturbation at each resampling step \cite{
 
-This work builds on research conducted by Matteo Cini.
+This work builds on research conducted by Matteo Cini, by exploring more of the theoretical aspects of climate dynamics in PlaSim as opposed to physical causes of collapse.
 
 
 - Next two steps is checking on radiation flux as a result of the transition (a marker of the edge state), and checking locations which are important for monitoring transitions (and seeing if they match up with the locations of R-tipping, which is the salinity in the southern Atlantic.
