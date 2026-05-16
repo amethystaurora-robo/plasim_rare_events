@@ -1,6 +1,7 @@
 ## Applying Rare Event Sampling to the Planet Simulator (PlaSim) 
 
 This repo applies a rare event algorithm to the coupled atmospheric-oceanic model of intermediate complexity PlaSim. The goals of this research are 
+\enumerate
 a. determining the edge state in PlaSim between on and off states of the AMOC
 b. determining optimal locations and state variables to position optimal observations for an early warning system of AMOC collapse
 c. refining the methodology used in Cini et al. to produce noise-induced transitions in PlaSim
