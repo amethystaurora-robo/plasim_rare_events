@@ -1,4 +1,70 @@
-## Applying Rare Event Sampling to the Planet Simulator (PlaSim) 
+# Applying Rare Event Sampling to the Planet Simulator (PlaSim) 
+## Introduction
+## Methods
+## Results
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_surf.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_energy_budget_toa.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+</p>
 
 This repo applies a rare event algorithm to the coupled atmospheric-oceanic model of intermediate complexity PlaSim. The goals of this research are 
 \enumerate
