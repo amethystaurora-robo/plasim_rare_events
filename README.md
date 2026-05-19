@@ -9,61 +9,72 @@
   <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_surf.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_energy_budget_toa.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_toa.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_surf_off.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_surf_on.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_toa_off.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_toa_on.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_hfls.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_hfls_off.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_hfss.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_hfss_off.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_rls.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_rls_off.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_rlut.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_rlut_off.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/Lats_rss.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_rss_off.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_rst.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_rst_off.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_hfls.png" width="500" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100.png" width="500" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_hfss.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rls.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rlut.png" width="500" >
+</p><p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rss.png" width="500" >
+</p>
+<p>
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rst.png" width="500" >
 </p>
 
 This repo applies a rare event algorithm to the coupled atmospheric-oceanic model of intermediate complexity PlaSim. The goals of this research are 
