@@ -6,6 +6,10 @@ The PlaSim-LSG simulations continue the conclusions of \cite{cini2024simulating}
 
 To improve predictability of a transition, the edge state was investigated following conclusions from \cite{lohmann2024melancholia}, where the edge state is characterised by an increase in gravitational potential energy. As an initial look into the edge state, the global energy budget during the collapse of the AMOC was investigated, by calculating radiative fluxes at the top of the atmosphere and at the surface, to demonstrate redistribution of energy within the climate system as a result of AMOC collapse.
 
+fix citations
+arrange methods and results
+add new maps
+
 ## Methods
 ## Results
 <p>
