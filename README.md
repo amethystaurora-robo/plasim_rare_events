@@ -22,28 +22,28 @@ add new maps
   <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_toa.png" width="400" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_surf_off.png" width="400" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_hfls.png" width="400" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_surf_on.png" width="400" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_hfss.png" width="400" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_toa_off.png" width="400" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rls.png" width="400" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_toa_on.png" width="400" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rlut.png" width="400" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_hfls.png" width="400" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rss.png" width="400" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_hfls_off.png" width="400" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rst.png" width="400" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_hfss.png" width="400" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_total_surf.png" width="400" >
 </p>
 <p>
-  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_hfss_off.png" width="400" >
+  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_total_toa.png" width="400" >
 </p>
 <p>
   <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/lats_rls.png" width="400" >
