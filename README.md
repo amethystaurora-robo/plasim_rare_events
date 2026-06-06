@@ -151,6 +151,8 @@ change (b), the change in latent heat exchange (c), sensible heat exchange (d),
 and the total change in the surface energy budget (d), with warmer colors
 representing radiative increases and cooler colors representing decreases.
 
+Can also add sit, sic, clt here, and new plots
+
 ## References
 1. Klaus F Fraedrich et al. “The Planet Simulator: Towards a user friendly model”. In: Meteorologische Zeitschrift 14.3 (2005), pp. 299–304.
 2. Oliver Mehling et al. “High-latitude precipitation as a driver of multi-centennial variability of the AMOC in a climate model of intermediate complexity”. In: Climate Dynamics 61.3 (2023), pp. 1519–1534.
