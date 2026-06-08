@@ -151,7 +151,7 @@ change (b), the change in latent heat exchange (c), sensible heat exchange (d),
 and the total change in the surface energy budget (d), with warmer colors
 representing radiative increases and cooler colors representing decreases.
 
-Can also add sit, sic, clt here, and new plots
+Can also add sit, sic, clt here, and new plots: change to compare difference between control run and off state, average of 30 years, don't do absolute value
 
 ## References
 1. Klaus F Fraedrich et al. “The Planet Simulator: Towards a user friendly model”. In: Meteorologische Zeitschrift 14.3 (2005), pp. 299–304.
