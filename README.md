@@ -78,8 +78,8 @@ period, meaning that radiative equilibrium is maintained. In the early portion
 of the timeseries in Figures 2a and 2c, there are noticeable spikes in radiative flux, which can also be seen in the energy budget. These may also be worth
 investigating in further studies.
 <p>
- a) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rss.png" width="400" >
- b)  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rst.png" width="400" >
+ a) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rss.png" width="300" >
+ b)  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rst.png" width="300" >
 </p><p>
  c)   <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_toa.png" width="400" >
 </p>
