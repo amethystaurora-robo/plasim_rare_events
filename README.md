@@ -81,7 +81,7 @@ investigating in further studies.
  a) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rss.png" width="300" >
  b)  <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rst.png" width="300" >
 </p><p>
- c)   <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_toa.png" width="400" >
+ c)   <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_toa.png" width="300" >
 </p>
 
 Figure 2: A comparison of total solar radiation flux and thermal radiation
@@ -94,11 +94,11 @@ the difference between variables before the transition in Year 2, and after the
 transition in Year 100. Each plot shows significant radiative increases on the
 west coast of Greenland, an area which will be a focal point in future analyses.
 <p>
-  a) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rss.png" width="400" >
-  b) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rst.png" width="400" >
+  a) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rss.png" width="300" >
+  b) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rst.png" width="300" >
 </p>
 <p>
-  c) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_total_toa.png" width="400" >
+  c) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_total_toa.png" width="300" >
 </p>
 Figure 3: The total change in global radiation fluxes at the top of the atmo-
 sphere, including the incoming short-wave solar flux (a), the upward thermal
@@ -115,15 +115,15 @@ shows a slight increase in energy transfer due to temperature differences betwee
 the atmosphere and the ocean.
 
 <p>
-  a) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_hfls.png" width="400" >
-  b) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_hfss.png" width="400" >
+  a) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_hfls.png" width="300" >
+  b) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_hfss.png" width="300" >
 </p>
 <p>
- c) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rls.png" width="400" >
- d) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rlut.png" width="400" >
+ c) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rls.png" width="300" >
+ d) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/mean_rlut.png" width="300" >
 </p>
 <p>
-  e) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_surf.png" width="400" >
+  e) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/energy_budget_surf.png" width="300" >
 </p>
 Figure 4: A comparison of total solar radiation flux, thermal radiation flux,
 latent heat flux, and sensible heat flux during the collapse simulation (a-d). The
@@ -135,15 +135,15 @@ in Figure 5, where there is a noticeable increase in radiation off the west coas
 of Greenland, and a slight increase in incoming solar radiation around the Gulf
 of Mexico, shown in Figure 5a.
 <p>
-  a) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rlut.png" width="400" >
-  b) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rls.png" width="400" >
+  a) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rlut.png" width="300" >
+  b) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rls.png" width="300" >
 </p>
 <p>
-  c) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_hfss.png" width="400" >
-  d) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_hfls.png" width="400" >
+  c) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_hfss.png" width="300" >
+  d) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_hfls.png" width="300" >
 </p>
 <p>
-  e) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_total_surf.png" width="400" >
+  e) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_total_surf.png" width="300" >
 </p>
 Figure 5: The total change in global radiation fluxes at the Earth’s surface,
 including the incoming short-wave solar flux (a), the upward thermal radiative
