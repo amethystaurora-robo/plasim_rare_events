@@ -64,6 +64,12 @@ with the timeseries shown in Figure 1.
 Figure 1: A 143-year time series of the AMOC index is shown, with a clear
 transition around Year 100.
 
+After transition, the rare event algorithm is turned off, to see if any trajectories return to the on state. This result is shown below.
+
+<p>
+    <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/AMOC_k100_off.png" width="400" >
+</p>
+
 Radiative fluxes at the top of the atmosphere in PlaSim-LSG consist of solar
 flux and upward thermal radiation. The solar flux shown in Figure 2a shows
 a slight decrease in radiation around the transition period, meaning that the
