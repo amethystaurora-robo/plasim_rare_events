@@ -1,3 +1,8 @@
+TODO: Check original plots, if they actually subtract the correct means
+create the budget plots
+Add plots here
+Interpretation
+(and eventually will also compute the instanton for this model?)
 # Applying Rare Event Sampling to the Planet Simulator (PlaSim) 
 ## Introduction
 
