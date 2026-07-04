@@ -1,6 +1,4 @@
-TODO: Check original plots, if they actually subtract the correct means
-create the budget plots
-Add plots here
+TODO: 
 Interpretation
 (and eventually will also compute the instanton for this model?)
 # Applying Rare Event Sampling to the Planet Simulator (PlaSim) 
@@ -109,7 +107,7 @@ west coast of Greenland, an area which will be a focal point in future analyses.
   b) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_rst.png" width="300" >
 </p>
 <p>
-  c) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_total_toa.png" width="300" >
+  c) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_TOA.png" width="300" >
 </p>
 Figure 3: The total change in global radiation fluxes at the top of the atmo-
 sphere, including the incoming short-wave solar flux (a), the upward thermal
@@ -154,7 +152,7 @@ of Mexico, shown in Figure 5a.
   d) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_hfls.png" width="300" >
 </p>
 <p>
-  e) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_total_surf.png" width="300" >
+  e) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_Surf.png" width="300" >
 </p>
 Figure 5: The total change in global radiation fluxes at the Earth’s surface,
 including the incoming short-wave solar flux (a), the upward thermal radiative
