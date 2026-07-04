@@ -152,7 +152,7 @@ of Mexico, shown in Figure 5a.
   d) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_hfls.png" width="300" >
 </p>
 <p>
-  e) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_Surf.png" width="300" >
+  e) <img src="https://github.com/amethystaurora-robo/plasim_rare_events/blob/main/graphs/difference_Surface.png" width="300" >
 </p>
 Figure 5: The total change in global radiation fluxes at the Earth’s surface,
 including the incoming short-wave solar flux (a), the upward thermal radiative
